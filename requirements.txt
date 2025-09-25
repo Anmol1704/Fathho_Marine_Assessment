@@ -1,0 +1,4 @@
+Flask>=2.0
+marshmallow>=3.0
+flask-jwt-extended>=4.0   # optional if you want JWT
+python-dotenv             # optional for environment variables
