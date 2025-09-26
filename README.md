@@ -1,0 +1,3 @@
+I have made everything mentioned in the pdf and  i have tested with postman API.I have made everything in different different methods.There is login of user in POST method which gives us access token and login for user then i have made add a new ship in  POST method in which we can add a new ship after that we can check all the ships in Get all ship data request then we can fetch the ship by its ID for that i have made a get request with name get ship by ID after that we can update the ship by ID for that I have made PUT request with name Update ship by ID and at last we can delete ship by ID for that I have made Delete a ship by ID in whic we can delete the ship by ID.
+
+If token has expired then please take a new token from login of user then it will run properly.

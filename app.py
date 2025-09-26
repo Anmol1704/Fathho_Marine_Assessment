@@ -83,8 +83,6 @@ def create_ship():
     return jsonify(ship_schema.dump(data)), 201
 
 
-
-
 @app.route('/ships/<int:sid>', methods=['GET'])
 def get_ship(sid):
     s = find_ship(sid)
